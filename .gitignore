@@ -1,0 +1,11 @@
+__pycache__/
+*.secret
+dist/
+build/
+eggs/
+.eggs/
+*.egg-info/
+basalisk_env/
+test_env/
+
+
