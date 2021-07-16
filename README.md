@@ -3,13 +3,15 @@
 ## Install
 
 `git clone https://github.com/realPaulAtreides/basilisk.git`
+
 `cd basilisk`
+
 `python setup.py install`
 
 
 ## Usage
 
-```
+```python
 from basilisk.wallet.rpc import WalletOwnerV3Proxy
 
 # Instatiate a wallet connection with the api endpoint and path to the api secret file
